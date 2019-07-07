@@ -6,7 +6,7 @@
 
 ---
 
-### 一、[Linux指令](https://github.com/kuangxc/BackendEngineerSkill/shell/README.md)
+### 一、[Linux指令](https://github.com/kuangxc/BackendEngineerSkill/blob/master/shell/README.md)
 ### 二、[操作系统知识]()
 ### 三、[数据库]()
 ### 四、[数据结构与算法]()
